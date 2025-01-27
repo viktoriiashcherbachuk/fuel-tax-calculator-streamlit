@@ -17,7 +17,7 @@ st.markdown(
 st.title("Fuel Price Calculator")
 
 # Add a company logo
-st.image("C:/Users/vpshc/Downloads/KF.jpg", width=600)  # Adjust width as needed
+st.image("KF.jpg", width=600)  # Adjust width as needed
 
 # Create a container for inputs
 st.write(
